@@ -138,7 +138,8 @@ or
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
-![Screenshot 2025-03-17 160242](https://github.com/user-attachments/assets/70eb95c4-cfb7-48cd-9857-0205a05d2ac7)
+![Screenshot 2025-04-24 103555](https://github.com/user-attachments/assets/953894c8-5af8-4ee8-b7b4-a781dffa219e)
+
 
 ### Fig 5:cds.lib file Creation
 
