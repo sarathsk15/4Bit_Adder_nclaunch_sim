@@ -148,14 +148,16 @@ or
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
-![Screenshot 2025-03-19 160931](https://github.com/user-attachments/assets/bc0d3d87-ae40-424d-b5fd-ac396f579327)
+![Screenshot 2025-04-23 160601](https://github.com/user-attachments/assets/818a968d-1ad4-40d0-8fbf-be3505e9d5eb)
+
 
 ### Fig 4:Setting Multi-step simulation
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
-![Screenshot 2025-04-23 160820](https://github.com/user-attachments/assets/baa825e8-4d27-4a0a-8554-4423613a6e02)
+![Screenshot 2025-04-23 160820](https://github.com/user-attachments/assets/28e0fa0b-e4b2-496b-9b98-da3ad62196b1)
+
 
 ### Fig 5:cds.lib file Creation
 
