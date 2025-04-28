@@ -135,7 +135,7 @@ Endmodule
       (The path of cshrc could vary depending on the installation destination)
       
 	After this you can see the window like below 
-![Screenshot 2025-04-23 160624](https://github.com/user-attachments/assets/183973f9-0e93-4c0a-adc5-9360a1c08220)
+![Screenshot 2025-04-23 160537](https://github.com/user-attachments/assets/9970bf1e-b4a4-4fb8-bcba-cecac67048cf)
 
 ### Fig 3:Invoke the Cadence Environment
 
